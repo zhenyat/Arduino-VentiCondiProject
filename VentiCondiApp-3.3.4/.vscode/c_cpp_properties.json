@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "name": "macos-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/",
+        "u",
+        "s",
+        "r",
+        "b",
+        "i",
+        "n",
+        "c",
+        "l",
+        "a",
+        "g"
+      ],
+      "compilerPath": "gcc",
+      "cStandard": "${default}",
+      "cppStandard": "${default}",
+      "intelliSenseMode": "macos-gcc-x64",
+      "compilerArgs": []
+    }
+  ],
+  "version": 4
+}
